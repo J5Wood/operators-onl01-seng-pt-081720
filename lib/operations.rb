@@ -9,6 +9,7 @@ def unsafe?(speed)
 		return false
 	else
 		return "Incorrect parameter"
+	end
 end
 
 
